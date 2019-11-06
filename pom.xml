@@ -385,7 +385,7 @@
             <dependency>
                 <groupId>org.jmockit</groupId>
                 <artifactId>jmockit</artifactId>
-                <version>1.33</version>
+                <version>1.48</version>
                 <scope>test</scope>
             </dependency>
             <dependency>
@@ -538,7 +538,7 @@
                         <format>html</format>
                         <format>xml</format>
                     </formats>
-                    <check />
+                    <check/>
                 </configuration>
             </plugin>
         </plugins>
