@@ -160,7 +160,7 @@
         <logback_version>1.2.2</logback_version>
         <!-- Test libs -->
         <junit_version>4.12</junit_version>
-        <easymock_version>3.4</easymock_version>
+        <easymock_version>3.6</easymock_version>
         <jmockit_version>1.33</jmockit_version>
         <!-- Build args -->
         <argline>-server -Xms64m -Xmx256m -XX:PermSize=64m -XX:MaxPermSize=128m -Dfile.encoding=UTF-8
@@ -538,7 +538,7 @@
                         <format>html</format>
                         <format>xml</format>
                     </formats>
-                    <check />
+                    <check/>
                 </configuration>
             </plugin>
         </plugins>
