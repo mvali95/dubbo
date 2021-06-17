@@ -129,11 +129,11 @@
         <grizzly_version>2.1.4</grizzly_version>
         <httpclient_version>4.5.3</httpclient_version>
         <hessian_lite_version>3.2.4</hessian_lite_version>
-        <xstream_version>1.4.1</xstream_version>
-        <fastjson_version>1.2.31</fastjson_version>
+        <xstream_version>1.4.17</xstream_version>
+        <fastjson_version>1.2.69</fastjson_version>
         <bsf_version>3.1</bsf_version>
         <sorcerer_version>0.8</sorcerer_version>
-        <zookeeper_version>3.4.9</zookeeper_version>
+        <zookeeper_version>3.5.5</zookeeper_version>
         <zkclient_version>0.2</zkclient_version>
         <curator_version>2.12.0</curator_version>
         <jedis_version>2.9.0</jedis_version>
@@ -145,7 +145,7 @@
         <servlet_version>2.5</servlet_version>
         <jetty_version>6.1.26</jetty_version>
         <validation_version>1.1.0.Final</validation_version>
-        <hibernate_validator_version>5.4.1.Final</hibernate_validator_version>
+        <hibernate_validator_version>6.0.19.Final</hibernate_validator_version>
         <jel_version>3.0.1-b08</jel_version>
         <jcache_version>1.0.0</jcache_version>
         <sca_version>2.0-M5.1</sca_version>
@@ -538,7 +538,7 @@
                         <format>html</format>
                         <format>xml</format>
                     </formats>
-                    <check />
+                    <check/>
                 </configuration>
             </plugin>
         </plugins>
