@@ -28,7 +28,7 @@
     <artifactId>dubbo-test-spring3</artifactId>
 
     <properties>
-        <spring.version>3.2.18.RELEASE</spring.version>
+        <spring.version>5.2.18.RELEASE</spring.version>
     </properties>
 
     <dependencies>
